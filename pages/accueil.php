@@ -1,4 +1,4 @@
-<?php require_once('../_partials/_header.php'); ?>
+<?php require_once('./templates/header.php'); ?>
 
 <!--<div class="px-4 py-5 my-5 text-center">
     <img class="d-block mx-auto mb-4" src="/docs/5.3/assets/brand/bootstrap-logo.svg" alt="" width="72"
@@ -47,6 +47,6 @@
     Un immense zoo ,à découvrir;
     Les animaux sont heureux ,on le resssent.</h3>
 
+    
 
-
-<?php require_once("../_partials/_footer.php") ?>;
+<?php require_once("./templates/footer.php") ?>;

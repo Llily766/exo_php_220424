@@ -15,11 +15,11 @@
     <div class="container">
         <header class="d-flex justify-content-center py-3">
             <ul class="nav nav-pills">
-                <li class="nav-item"><a href="../pages/accueil.php" class="nav-link active" aria-current="page">Accueil</a></li>
-                <li class="nav-item"><a href="../pages/service.php" class="nav-link">Services</a></li>
-                <li class="nav-item"><a href="../pages/habitats.php" class="nav-link">Habitat</a></li>
-                <li class="nav-item"><a href="../pages/connexion.php" class="nav-link">Connexion</a></li>
-                <li class="nav-item"><a href="../pages/contact.php" class="nav-link">Contact</a></li>
+                <li class="nav-item"><a href="./pages/accueil.php" class="nav-link active" aria-current="page">Accueil</a></li>
+                <li class="nav-item"><a href="./pages/services.php" class="nav-link">services</a></li>
+                <li class="nav-item"><a href="./pages/habitats.php" class="nav-link">Habitat</a></li>
+                <li class="nav-item"><a href="./pages/connexion.php" class="nav-link">Connexion</a></li>
+                <li class="nav-item"><a href="./pages/contact.php" class="nav-link">Contact</a></li>
             </ul>
         </header>
     </div>
